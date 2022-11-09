@@ -1,0 +1,7 @@
+En las planillas con nuevo formato, las celdas de seccion deben ser 1 por cada corte, no combinadas (Como en PAUNY 710 CABINA 2017, 012-RAMAL CONSOLA 710 CABINA 2017   V004 o motoniveladora 16-180 ramal)
+Aquellas que en seccion tengan más de un cable, pueden tener cualquier formato, pero tienen que contener al menos una x (mayuscula o minuscula), asi el programa la diferencia y la descarta.
+Luego del ultimo corte en cada hoja del excel, tiene que haber una fila vacia (actualmente es en la fila 72)
+Cada terminal debe tener exactamente el mismo nombre en cada hoja de corte (por ejemplo el P/ Lock 9... tiene distinto nombre en Pauny 230 tablero que en bravo tablero fusiblera 2017)
+Lo mismo para los colores (normalmente tienen un esoacio antes o despues de la barra)
+En una hoja estaba AZUL y en otra AZUL seguido de un espacio blanco, ojo!!
+Ademas, no es lo mismo VERDE/NEGRO que NEGRO/VERDE
